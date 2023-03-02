@@ -20,3 +20,7 @@ default:
 printf("wrong choice");
 }
 }
+// printf("%d of decimal number system,in hexadecimal is %x",n,n);
+break;
+default:
+printf("wrong choice");
